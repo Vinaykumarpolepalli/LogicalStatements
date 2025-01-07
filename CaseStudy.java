@@ -15,7 +15,7 @@ public class CaseStudy {
 		else {
 			System.out.println("Sorry, you are not eligable for the next Exam");
 		}
-
+ sc.close();
 	}
 
 }
